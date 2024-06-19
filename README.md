@@ -5,7 +5,7 @@
 
 ## PORTFOLIO 🚀 Website's [Live Link](https://souvik28.netlify.app/#home)🔗
 
-[![LIVE--LINK](https://img.shields.io/badge/LIVELINK-blue)](https://souvik28.netlify.app/#home)
+[![LIVE--LINK]](https://souvik28.netlify.app/#home)
 
 >by Souvik Dey ✨
 
@@ -17,7 +17,12 @@
 
 - 1 days to complete it.
 
-<!-- ![image](https://github.com/AparnaShukla2509/aparnashukla2509/assets/14s2578968/57220541-2f9d-4141-b2ca-de3887b8fc45) -->
+<!-- 
+
+(https://img.shields.io/badge/LIVELINK-blue)
+
+
+![image](https://github.com/AparnaShukla2509/aparnashukla2509/assets/14s2578968/57220541-2f9d-4141-b2ca-de3887b8fc45) -->
 
 ### Hi there 👋
 
