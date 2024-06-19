@@ -5,7 +5,7 @@
 
 ## PORTFOLIO 🚀 Website's [Live Link](https://souvik28.netlify.app/#home)🔗
 
-[![LIVE--LINK](https://img.shields.io/badge/LIVELINK-blue)](https://souvik28.netlify.app/#home)
+[(https://img.shields.io/badge/LIVELINK-blue)](https://souvik28.netlify.app/#home)
 
 >by Souvik Dey ✨
 
@@ -18,6 +18,9 @@
 - 1 days to complete it.
 
 <!-- 
+
+[![LIVE--LINK](https://img.shields.io/badge/LIVELINK-blue)](https://souvik28.netlify.app/#
+
 
 (https://img.shields.io/badge/LIVELINK-blue)
 
